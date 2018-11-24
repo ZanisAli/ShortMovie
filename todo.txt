@@ -1,0 +1,24 @@
+
+
+
+
+
+ToDo
+* car driving scene with dust
+* second character finishing
+* adding second character to main scene
+* adding chair and tables to the main scene
+* adding sculptures to main scene
+* creating background and sky for main scene
+* creating background and sky for far scene
+* lighting and cameras for main 
+* lighting and cameras for far
+* creating car crash animation with house destruction
+* voiceover and mouth animation
+* animation of the characters
+
+Questions for Jaanus
+* dust for car
+* lighting
+* final rendering
+
