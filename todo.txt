@@ -12,7 +12,7 @@ ToDo
 * creating background and sky for main scene----------done
 * creating background and sky for far scene
 * lighting and cameras for main-----------------------done
-* lighting and cameras for far
+* lighting and cameras for far------------------------done
 * creating car crash animation with house destruction
 * voiceover and mouth animation
 * animation of the characters
