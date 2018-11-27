@@ -7,11 +7,11 @@ ToDo
 * car driving scene with dust
 * second character finishing
 * adding second character to main scene
-* adding chair and tables to the main scene
-* adding sculptures to main scene
-* creating background and sky for main scene
+* adding chair and tables to the main scene ----------done
+* adding sculptures to main scene --------------------done
+* creating background and sky for main scene----------done
 * creating background and sky for far scene
-* lighting and cameras for main 
+* lighting and cameras for main-----------------------done
 * lighting and cameras for far
 * creating car crash animation with house destruction
 * voiceover and mouth animation
@@ -21,4 +21,6 @@ Questions for Jaanus
 * dust for car
 * lighting
 * final rendering
+* procedural trees
+
 
