@@ -5,7 +5,7 @@
 
 ToDo
 * car driving scene with dust
-* second character finishing
+* second character finishing--------------------------done
 * adding second character to main scene
 * adding chair and tables to the main scene ----------done
 * adding sculptures to main scene --------------------done
