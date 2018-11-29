@@ -24,3 +24,18 @@ Questions for Jaanus
 * procedural trees
 
 
+**how the dynamic paint works
+**cool features
+** low poly smoke
+** gifs LICE cap
+** inverse kinematics
+** blender 2.8 for render eve pipeline
+** best practises for Fast Game Desing in Unity
+**select faces by sides
+** remove duplicates
+**firewatch >D
+**cell fracture
+**octrahedron
+
+
+
