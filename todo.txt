@@ -6,22 +6,24 @@
 ToDo
 * car driving scene with dust
 * second character finishing--------------------------done
-* adding second character to main scene
+* adding second character to main scene---------------done
 * adding chair and tables to the main scene ----------done
 * adding sculptures to main scene --------------------done
 * creating background and sky for main scene----------done
-* creating background and sky for far scene
+* creating background and sky for far scene-----------done
 * lighting and cameras for main-----------------------done
 * lighting and cameras for far------------------------done
 * creating car crash animation with house destruction
-* voiceover and mouth animation
+* voiceover and mouth animation-----------------------done
 * animation of the characters
+* exibition sign
+* wires to the city
+* in the end add head movement and eyes and correct the mouth
 
 Questions for Jaanus
-* dust for car
-* lighting
-* final rendering
-* procedural trees
+* dust for car--------lowpoly dust
+* final rendering-----eve or cglab
+* procedural trees----if time
 
 
 **how the dynamic paint works
