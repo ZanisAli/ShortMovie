@@ -1,10 +1,9 @@
 
-
-
-
+[The simple life of simple Zanid]
+**Untold story of simple Zanid**
 
 ToDo
-* car driving scene with dust
+* car driving scene with dust + Allan
 * second character finishing--------------------------done
 * adding second character to main scene---------------done
 * adding chair and tables to the main scene ----------done
@@ -13,15 +12,21 @@ ToDo
 * creating background and sky for far scene-----------done
 * lighting and cameras for main-----------------------done
 * lighting and cameras for far------------------------done
-* creating car crash animation with house destruction
+* creating car crash animation with house destruction + Allan
 * voiceover and mouth animation-----------------------done
-* animation of the characters
-* exibition sign
-* wires to the city
-* in the end add head movement and eyes and correct the mouth
+* animation of the characters + Zanis dialog
+* Zanis music/ djZAnis and music / distant + Zanis
+* exibition sign -------------------------------------no
+* wires to the city - extra
+* in the end add head movement and eyes and correct the mouth + Joonas
+* rendering Eve + Joonas
+
+afer 6 jan
+* trees + JJ
+* subtitles + zanis
 
 Questions for Jaanus
-* dust for car--------lowpoly dust
+* dust for car--------lowpoly dust + Allan
 * final rendering-----eve or cglab
 * procedural trees----if time
 
