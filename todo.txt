@@ -14,16 +14,23 @@ ToDo
 * lighting and cameras for far------------------------done
 * creating car crash animation with house destruction + Allan
 * voiceover and mouth animation-----------------------done
-* animation of the characters + Zanis dialog
-* Zanis music/ djZAnis and music / distant + Zanis
-* exibition sign -------------------------------------no
-* wires to the city - extra
-* in the end add head movement and eyes and correct the mouth + Joonas
+* animation of the characters ------------------------done
+
+
+* in the end add head movement and eyes and correct the mouth ------done
 * rendering Eve + Joonas
+* final edit done
+
+* money -Zanis
+* Zanis music/ djZAnis and music / distant + Zanis/ car sounds/ environment-birds, dog barking, people talking background, noise!
+https://www.youtube.com/watch?v=DJztXj2GPfk
 
 afer 6 jan
 * trees + JJ
 * subtitles + zanis
+* additional animations for hips etc.
+* wires to the city - extra
+* new voiceover
 
 Questions for Jaanus
 * dust for car--------lowpoly dust + Allan
